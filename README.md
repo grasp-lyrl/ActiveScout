@@ -7,6 +7,9 @@ first-principles approach to actively tracking dynamic targets. We demonstrate, 
 occlusions, we show that our approach maintains, at worst, a tracking error of 200m; the greedy baseline can have a tracking error as large as 600m. We observe a number of interesting
 properties in the scout’s policies, e.g., it switches its attention to track a different target periodically, as the quality of the NeRF representation improves over time, the scout also becomes better in terms of target tracking.
 
+## Example Run in the Philadelphia map
+file:///home/chris/Documents/ActiveScout/overview.mp4
+
 ## Installation
 
 ### 1. Set up Environment
