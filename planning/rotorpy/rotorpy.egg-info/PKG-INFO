@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: rotorpy
+Version: 1.1.0
+License-File: LICENSE.md
+Requires-Dist: cvxopt
+Requires-Dist: matplotlib
+Requires-Dist: filterpy==1.4.5
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: ndsplines
+Requires-Dist: timeout_decorator
+Requires-Dist: tqdm
+Requires-Dist: gymnasium

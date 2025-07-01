@@ -1,0 +1,699 @@
+{
+  "created_at": "2024-02-05T00:45:57.299918",
+  "version": "0.1",
+  "mtllibs": [
+    "nyc_stuy_blend.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "ASPHALT_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 1386528
+    },
+    {
+      "material": "BRICK_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 1386528,
+      "byte_length": 39552
+    },
+    {
+      "material": "BRIDGE_DEFAULT_0",
+      "vertex_format": "N3F_V3F",
+      "byte_offset": 1426080,
+      "byte_length": 35424
+    },
+    {
+      "material": "BRIDGE_PILLAR_DEFAULT_0",
+      "vertex_format": "N3F_V3F",
+      "byte_offset": 1461504,
+      "byte_length": 72000
+    },
+    {
+      "material": "BUILDING_DEFAULT_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 1533504,
+      "byte_length": 728448
+    },
+    {
+      "material": "BUS_STOP_SIGN_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 2261952,
+      "byte_length": 24192
+    },
+    {
+      "material": "CHAIN_LINK_FENCE_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 2286144,
+      "byte_length": 8448
+    },
+    {
+      "material": "CONCRETE_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 2294592,
+      "byte_length": 894144
+    },
+    {
+      "material": "EARTH_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3188736,
+      "byte_length": 14304
+    },
+    {
+      "material": "ENTRANCE_DEFAULT_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3203040,
+      "byte_length": 3648
+    },
+    {
+      "material": "FIREHYDRANT_0",
+      "vertex_format": "N3F_V3F",
+      "byte_offset": 3206688,
+      "byte_length": 127440
+    },
+    {
+      "material": "GLASS_ROOF_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3334128,
+      "byte_length": 25920
+    },
+    {
+      "material": "GLASS_WALL_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3360048,
+      "byte_length": 768
+    },
+    {
+      "material": "GRASS_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3360816,
+      "byte_length": 22368
+    },
+    {
+      "material": "GRAVEL_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3383184,
+      "byte_length": 11328
+    },
+    {
+      "material": "HANDRAIL_DEFAULT_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3394512,
+      "byte_length": 217152
+    },
+    {
+      "material": "KERB_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3611664,
+      "byte_length": 16512
+    },
+    {
+      "material": "MAT_0_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3628176,
+      "byte_length": 576
+    },
+    {
+      "material": "MAT_0_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3628752,
+      "byte_length": 576
+    },
+    {
+      "material": "MAT_10_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3629328,
+      "byte_length": 213120
+    },
+    {
+      "material": "MAT_10_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3842448,
+      "byte_length": 213120
+    },
+    {
+      "material": "MAT_11_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4055568,
+      "byte_length": 4224
+    },
+    {
+      "material": "MAT_12_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4059792,
+      "byte_length": 3840
+    },
+    {
+      "material": "MAT_12_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4063632,
+      "byte_length": 3840
+    },
+    {
+      "material": "MAT_13_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4067472,
+      "byte_length": 4032
+    },
+    {
+      "material": "MAT_13_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4071504,
+      "byte_length": 4032
+    },
+    {
+      "material": "MAT_14_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4075536,
+      "byte_length": 1440
+    },
+    {
+      "material": "MAT_15_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4076976,
+      "byte_length": 7872
+    },
+    {
+      "material": "MAT_15_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4084848,
+      "byte_length": 7872
+    },
+    {
+      "material": "MAT_16_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4092720,
+      "byte_length": 2304
+    },
+    {
+      "material": "MAT_17_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4095024,
+      "byte_length": 2112
+    },
+    {
+      "material": "MAT_18_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4097136,
+      "byte_length": 5472
+    },
+    {
+      "material": "MAT_19_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4102608,
+      "byte_length": 192
+    },
+    {
+      "material": "MAT_1_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4102800,
+      "byte_length": 12288
+    },
+    {
+      "material": "MAT_1_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4115088,
+      "byte_length": 12288
+    },
+    {
+      "material": "MAT_20_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4127376,
+      "byte_length": 2784
+    },
+    {
+      "material": "MAT_21_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4130160,
+      "byte_length": 5952
+    },
+    {
+      "material": "MAT_21_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4136112,
+      "byte_length": 5952
+    },
+    {
+      "material": "MAT_22_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4142064,
+      "byte_length": 384
+    },
+    {
+      "material": "MAT_23_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4142448,
+      "byte_length": 12096
+    },
+    {
+      "material": "MAT_23_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4154544,
+      "byte_length": 12096
+    },
+    {
+      "material": "MAT_24_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4166640,
+      "byte_length": 384
+    },
+    {
+      "material": "MAT_25_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4167024,
+      "byte_length": 4032
+    },
+    {
+      "material": "MAT_26_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4171056,
+      "byte_length": 4704
+    },
+    {
+      "material": "MAT_27_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4175760,
+      "byte_length": 9408
+    },
+    {
+      "material": "MAT_27_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4185168,
+      "byte_length": 9408
+    },
+    {
+      "material": "MAT_28_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4194576,
+      "byte_length": 960
+    },
+    {
+      "material": "MAT_29_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4195536,
+      "byte_length": 192
+    },
+    {
+      "material": "MAT_2_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4195728,
+      "byte_length": 3456
+    },
+    {
+      "material": "MAT_30_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4199184,
+      "byte_length": 1152
+    },
+    {
+      "material": "MAT_30_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4200336,
+      "byte_length": 1152
+    },
+    {
+      "material": "MAT_31_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4201488,
+      "byte_length": 1536
+    },
+    {
+      "material": "MAT_31_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4203024,
+      "byte_length": 1536
+    },
+    {
+      "material": "MAT_32_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4204560,
+      "byte_length": 7872
+    },
+    {
+      "material": "MAT_32_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4212432,
+      "byte_length": 7872
+    },
+    {
+      "material": "MAT_33_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4220304,
+      "byte_length": 768
+    },
+    {
+      "material": "MAT_34_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4221072,
+      "byte_length": 3840
+    },
+    {
+      "material": "MAT_35_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4224912,
+      "byte_length": 1344
+    },
+    {
+      "material": "MAT_36_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4226256,
+      "byte_length": 7104
+    },
+    {
+      "material": "MAT_36_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4233360,
+      "byte_length": 7104
+    },
+    {
+      "material": "MAT_37_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4240464,
+      "byte_length": 384
+    },
+    {
+      "material": "MAT_38_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4240848,
+      "byte_length": 19008
+    },
+    {
+      "material": "MAT_39_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4259856,
+      "byte_length": 8064
+    },
+    {
+      "material": "MAT_3_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4267920,
+      "byte_length": 3456
+    },
+    {
+      "material": "MAT_40_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4271376,
+      "byte_length": 3072
+    },
+    {
+      "material": "MAT_41_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4274448,
+      "byte_length": 768
+    },
+    {
+      "material": "MAT_42_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4275216,
+      "byte_length": 2304
+    },
+    {
+      "material": "MAT_42_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4277520,
+      "byte_length": 2304
+    },
+    {
+      "material": "MAT_43_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4279824,
+      "byte_length": 960
+    },
+    {
+      "material": "MAT_44_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4280784,
+      "byte_length": 768
+    },
+    {
+      "material": "MAT_45_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4281552,
+      "byte_length": 1152
+    },
+    {
+      "material": "MAT_46_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4282704,
+      "byte_length": 1056
+    },
+    {
+      "material": "MAT_47_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4283760,
+      "byte_length": 8640
+    },
+    {
+      "material": "MAT_47_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4292400,
+      "byte_length": 8640
+    },
+    {
+      "material": "MAT_48_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4301040,
+      "byte_length": 960
+    },
+    {
+      "material": "MAT_49_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4302000,
+      "byte_length": 3936
+    },
+    {
+      "material": "MAT_4_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4305936,
+      "byte_length": 1536
+    },
+    {
+      "material": "MAT_50_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4307472,
+      "byte_length": 1632
+    },
+    {
+      "material": "MAT_51_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4309104,
+      "byte_length": 1920
+    },
+    {
+      "material": "MAT_51_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4311024,
+      "byte_length": 1920
+    },
+    {
+      "material": "MAT_52_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4312944,
+      "byte_length": 576
+    },
+    {
+      "material": "MAT_53_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4313520,
+      "byte_length": 1152
+    },
+    {
+      "material": "MAT_53_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4314672,
+      "byte_length": 1152
+    },
+    {
+      "material": "MAT_5_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4315824,
+      "byte_length": 1536
+    },
+    {
+      "material": "MAT_6_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4317360,
+      "byte_length": 6912
+    },
+    {
+      "material": "MAT_6_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4324272,
+      "byte_length": 6912
+    },
+    {
+      "material": "MAT_7_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4331184,
+      "byte_length": 16320
+    },
+    {
+      "material": "MAT_7_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4347504,
+      "byte_length": 16320
+    },
+    {
+      "material": "MAT_8_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4363824,
+      "byte_length": 2688
+    },
+    {
+      "material": "MAT_8_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4366512,
+      "byte_length": 2688
+    },
+    {
+      "material": "MAT_9_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4369200,
+      "byte_length": 489024
+    },
+    {
+      "material": "MAT_9_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 4858224,
+      "byte_length": 489024
+    },
+    {
+      "material": "METAL_FENCE_0",
+      "vertex_format": "N3F_V3F",
+      "byte_offset": 5347248,
+      "byte_length": 301824
+    },
+    {
+      "material": "METAL_FENCE_POST_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 5649072,
+      "byte_length": 217152
+    },
+    {
+      "material": "PAVING_STONE_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 5866224,
+      "byte_length": 75936
+    },
+    {
+      "material": "PITCH_TENNIS_CLAY_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 5942160,
+      "byte_length": 576
+    },
+    {
+      "material": "PITCH_TENNIS_CLAY_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 5942736,
+      "byte_length": 576
+    },
+    {
+      "material": "PLASTIC_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 5943312,
+      "byte_length": 14400
+    },
+    {
+      "material": "PURIFIED_WATER_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 5957712,
+      "byte_length": 5856
+    },
+    {
+      "material": "RED_ROAD_MARKING_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 5963568,
+      "byte_length": 17856
+    },
+    {
+      "material": "ROAD_MARKING_DASHED_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 5981424,
+      "byte_length": 210240
+    },
+    {
+      "material": "ROAD_MARKING_DASHED_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 6191664,
+      "byte_length": 210240
+    },
+    {
+      "material": "ROOF_DEFAULT_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 6401904,
+      "byte_length": 392256
+    },
+    {
+      "material": "SAND_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 6794160,
+      "byte_length": 6336
+    },
+    {
+      "material": "SETT_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 6800496,
+      "byte_length": 16704
+    },
+    {
+      "material": "STEEL_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 6817200,
+      "byte_length": 484896
+    },
+    {
+      "material": "STONE_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 7302096,
+      "byte_length": 19584
+    },
+    {
+      "material": "TARTAN_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 7321680,
+      "byte_length": 11040
+    },
+    {
+      "material": "TENNIS_NET_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 7332720,
+      "byte_length": 10944
+    },
+    {
+      "material": "TERRAIN_DEFAULT_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 7343664,
+      "byte_length": 2129568
+    },
+    {
+      "material": "TREE_BILLBOARD_BROAD_LEAVED_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 9473232,
+      "byte_length": 13824
+    },
+    {
+      "material": "TREE_BILLBOARD_CONIFEROUS_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 9487056,
+      "byte_length": 16512
+    },
+    {
+      "material": "UNHEWN_COBBLESTONE_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 9503568,
+      "byte_length": 1728
+    },
+    {
+      "material": "WATER_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 9505296,
+      "byte_length": 11712
+    },
+    {
+      "material": "WOOD_0",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 9517008,
+      "byte_length": 215232
+    }
+  ]
+}

@@ -1,0 +1,1260 @@
+# This file was created by OSM2World 0.4.0-SNAPSHOT - https://osm2world.org
+
+
+newmtl MAT_0_0
+Ns 92.156863
+Ka 0.27450982 0.27450982 0.27450982
+Kd 0.27450982 0.27450982 0.27450982
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_0_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-road_marking_crossing-5349132250908974808.png
+map_Kd nyc_stuy.obj_textures/tex-road_marking_crossing-5349132250908974808.png
+Ni 1
+illum 2
+
+newmtl ASPHALT_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+map_Kd nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+Ni 1
+illum 2
+
+newmtl CONCRETE_0
+Ns 92.156863
+Ka 0.27450982 0.27450982 0.27450982
+Kd 0.27450982 0.27450982 0.27450982
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_1_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+map_Kd nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+Ni 1
+illum 2
+
+newmtl MAT_1_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-road_marking_crossing-5349132250908974808.png
+map_Kd nyc_stuy.obj_textures/tex-road_marking_crossing-5349132250908974808.png
+Ni 1
+illum 2
+
+newmtl STEEL_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Metal002_Color-3925258980390012416.png
+map_Kd nyc_stuy.obj_textures/tex-Metal002_Color-3925258980390012416.png
+Ni 1
+illum 2
+
+newmtl FIREHYDRANT_0
+Ns 92.156863
+Ka 0.4 0.0 0.0
+Kd 0.4 0.0 0.0
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl PAVING_STONE_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-PavingStones072_Color-3556522893348036287.png
+map_Kd nyc_stuy.obj_textures/tex-PavingStones072_Color-3556522893348036287.png
+Ni 1
+illum 2
+
+newmtl BUS_STOP_SIGN_0
+Ns 92.156863
+Ka 0.49019608 0.4509804 0.023529412
+Kd 0.49019608 0.4509804 0.023529412
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl ROAD_MARKING_DASHED_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+map_Kd nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+Ni 1
+illum 2
+
+newmtl ROAD_MARKING_DASHED_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-road_marking_dash-3433755690856164968.png
+map_Kd nyc_stuy.obj_textures/tex-road_marking_dash-3433755690856164968.png
+Ni 1
+illum 2
+
+newmtl RED_ROAD_MARKING_0
+Ns 92.156863
+Ka 0.5019608 0.26666668 0.26666668
+Kd 0.5019608 0.26666668 0.26666668
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+map_Kd nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+Ni 1
+illum 2
+
+newmtl TREE_BILLBOARD_BROAD_LEAVED_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka -clamp on nyc_stuy.obj_textures/tex-arbaro_tree_broad_leaved-13672549173838110776.png
+map_Kd -clamp on nyc_stuy.obj_textures/tex-arbaro_tree_broad_leaved-13672549173838110776.png
+map_d -clamp on nyc_stuy.obj_textures/tex-arbaro_tree_broad_leaved-13672549173838110776.png
+Ni 1
+illum 2
+
+newmtl MAT_2_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-206-2305835925394431051.png
+map_Kd nyc_stuy.obj_textures/tex-206-2305835925394431051.png
+map_d nyc_stuy.obj_textures/tex-206-2305835925394431051.png
+Ni 1
+illum 2
+
+newmtl MAT_3_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-3712011452779890939.png
+map_Kd nyc_stuy.obj_textures/tex-3712011452779890939.png
+map_d nyc_stuy.obj_textures/tex-3712011452779890939.png
+Ni 1
+illum 2
+
+newmtl KERB_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-KnerrKerb0001-7800955437134040258.png
+map_Kd nyc_stuy.obj_textures/tex-KnerrKerb0001-7800955437134040258.png
+Ni 1
+illum 2
+
+newmtl TREE_BILLBOARD_CONIFEROUS_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka -clamp on nyc_stuy.obj_textures/tex-arbaro_tree_coniferous-10110191038670132664.png
+map_Kd -clamp on nyc_stuy.obj_textures/tex-arbaro_tree_coniferous-10110191038670132664.png
+map_d -clamp on nyc_stuy.obj_textures/tex-arbaro_tree_coniferous-10110191038670132664.png
+Ni 1
+illum 2
+
+newmtl GRAVEL_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Gravel004_Color-1794692865447943305.png
+map_Kd nyc_stuy.obj_textures/tex-Gravel004_Color-1794692865447943305.png
+Ni 1
+illum 2
+
+newmtl UNHEWN_COBBLESTONE_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-PavingStones016_Color-9931396169720476630.png
+map_Kd nyc_stuy.obj_textures/tex-PavingStones016_Color-9931396169720476630.png
+Ni 1
+illum 2
+
+newmtl MAT_4_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-205-841421705940958377.png
+map_Kd nyc_stuy.obj_textures/tex-205-841421705940958377.png
+map_d nyc_stuy.obj_textures/tex-205-841421705940958377.png
+Ni 1
+illum 2
+
+newmtl MAT_5_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-4624602395553561192.png
+map_Kd nyc_stuy.obj_textures/tex-4624602395553561192.png
+map_d nyc_stuy.obj_textures/tex-4624602395553561192.png
+Ni 1
+illum 2
+
+newmtl WOOD_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Wood026_Color-12119854818200704074.png
+map_Kd nyc_stuy.obj_textures/tex-Wood026_Color-12119854818200704074.png
+Ni 1
+illum 2
+
+newmtl SETT_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-PavingStones033_Color-17527796630327277327.png
+map_Kd nyc_stuy.obj_textures/tex-PavingStones033_Color-17527796630327277327.png
+Ni 1
+illum 2
+
+newmtl BRIDGE_DEFAULT_0
+Ns 92.156863
+Ka 0.2509804 0.2509804 0.2509804
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl STONE_0
+Ns 92.156863
+Ka 0.3137255 0.3254902 0.30588236
+Kd 0.3137255 0.3254902 0.30588236
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Bricks008_Color-4177130832129812068.png
+map_Kd nyc_stuy.obj_textures/tex-Bricks008_Color-4177130832129812068.png
+Ni 1
+illum 2
+
+newmtl MAT_6_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+map_Kd nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+Ni 1
+illum 2
+
+newmtl MAT_6_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka -clamp on nyc_stuy.obj_textures/tex-road_arrow_right-17954629309226325302.png
+map_Kd -clamp on nyc_stuy.obj_textures/tex-road_arrow_right-17954629309226325302.png
+Ni 1
+illum 2
+
+newmtl MAT_7_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+map_Kd nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+Ni 1
+illum 2
+
+newmtl MAT_7_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka -clamp on nyc_stuy.obj_textures/tex-road_arrow_through-6784882910411495.png
+map_Kd -clamp on nyc_stuy.obj_textures/tex-road_arrow_through-6784882910411495.png
+Ni 1
+illum 2
+
+newmtl BRIDGE_PILLAR_DEFAULT_0
+Ns 92.156863
+Ka 0.2509804 0.2509804 0.2509804
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl HANDRAIL_DEFAULT_0
+Ns 92.156863
+Ka 0.3764706 0.3764706 0.3764706
+Kd 0.3764706 0.3764706 0.3764706
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl MAT_8_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+map_Kd nyc_stuy.obj_textures/tex-Asphalt010_Color-9279752549022055600.png
+Ni 1
+illum 2
+
+newmtl MAT_8_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka -clamp on nyc_stuy.obj_textures/tex-road_arrow_through_right-11717229559862617476.png
+map_Kd -clamp on nyc_stuy.obj_textures/tex-road_arrow_through_right-11717229559862617476.png
+Ni 1
+illum 2
+
+newmtl CHAIN_LINK_FENCE_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Fence006_Color-1948973035443972203.png
+map_Kd nyc_stuy.obj_textures/tex-Fence006_Color-1948973035443972203.png
+map_d nyc_stuy.obj_textures/tex-Fence006_Color-1948973035443972203.png
+Ni 1
+illum 2
+
+newmtl METAL_FENCE_POST_0
+Ns 92.156863
+Ka 0.36862746 0.3882353 0.4
+Kd 0.36862746 0.3882353 0.4
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl BRICK_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Bricks029_Color-12508411881522269755.png
+map_Kd nyc_stuy.obj_textures/tex-Bricks029_Color-12508411881522269755.png
+Ni 1
+illum 2
+
+newmtl METAL_FENCE_0
+Ns 92.156863
+Ka 0.36862746 0.3882353 0.4
+Kd 0.36862746 0.3882353 0.4
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl TARTAN_0
+Ns 92.156863
+Ka 0.40392157 0.21568628 0.1764706
+Kd 0.40392157 0.21568628 0.1764706
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Fabi2-putz1-1824438855795444488.png
+map_Kd nyc_stuy.obj_textures/tex-Fabi2-putz1-1824438855795444488.png
+Ni 1
+illum 2
+
+newmtl BUILDING_DEFAULT_0
+Ns 92.156863
+Ka 0.34117648 0.34117648 0.34117648
+Kd 0.34117648 0.34117648 0.34117648
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl ROOF_DEFAULT_0
+Ns 92.156863
+Ka 0.42745098 0.42745098 0.42745098
+Kd 0.42745098 0.42745098 0.42745098
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-RoofingTiles010_Color-16226073255630728720.png
+map_Kd nyc_stuy.obj_textures/tex-RoofingTiles010_Color-16226073255630728720.png
+Ni 1
+illum 2
+
+newmtl PURIFIED_WATER_0
+Ns 92.156863
+Ka 0.0 0.0 0.5019608
+Kd 0.0 0.0 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl EARTH_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Ground042_Color-11741661095508198609.png
+map_Kd nyc_stuy.obj_textures/tex-Ground042_Color-11741661095508198609.png
+Ni 1
+illum 2
+
+newmtl SAND_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Ground033_Color-13175126056124591864.png
+map_Kd nyc_stuy.obj_textures/tex-Ground033_Color-13175126056124591864.png
+Ni 1
+illum 2
+
+newmtl WATER_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-P1140080E_Water-12584389492355431902.png
+map_Kd nyc_stuy.obj_textures/tex-P1140080E_Water-12584389492355431902.png
+Ni 1
+illum 2
+
+newmtl GRASS_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Ground003_Color-7504554415608202545.png
+map_Kd nyc_stuy.obj_textures/tex-Ground003_Color-7504554415608202545.png
+Ni 1
+illum 2
+
+newmtl MAT_9_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Bricks029_Color-12508411881522269755.png
+map_Kd nyc_stuy.obj_textures/tex-Bricks029_Color-12508411881522269755.png
+Ni 1
+illum 2
+
+newmtl MAT_9_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_10_0
+Ns 92.156863
+Ka 0.34117648 0.34117648 0.34117648
+Kd 0.34117648 0.34117648 0.34117648
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_10_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_11_0
+Ns 92.156863
+Ka 0.2509804 0.24705882 0.20784314
+Kd 0.2509804 0.24705882 0.20784314
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl ENTRANCE_DEFAULT_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-DE19F1FreisingDoor00005_small-18078989410484619692.png
+map_Kd nyc_stuy.obj_textures/tex-DE19F1FreisingDoor00005_small-18078989410484619692.png
+Ni 1
+illum 2
+
+newmtl MAT_12_0
+Ns 92.156863
+Ka 0.28235295 0.25490198 0.20392157
+Kd 0.28235295 0.25490198 0.20392157
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_12_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl GLASS_WALL_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Facade005_Color-16710527341591095358.png
+map_Kd nyc_stuy.obj_textures/tex-Facade005_Color-16710527341591095358.png
+Ni 1
+illum 2
+
+newmtl GLASS_ROOF_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Facade005_Color-16710527341591095358.png
+map_Kd nyc_stuy.obj_textures/tex-Facade005_Color-16710527341591095358.png
+Ni 1
+illum 2
+
+newmtl MAT_13_0
+Ns 92.156863
+Ka 0.48235294 0.46666667 0.43137255
+Kd 0.48235294 0.46666667 0.43137255
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_13_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_14_0
+Ns 92.156863
+Ka 0.3882353 0.3882353 0.37254903
+Kd 0.3882353 0.3882353 0.37254903
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_15_0
+Ns 92.156863
+Ka 0.43137255 0.4 0.35686275
+Kd 0.43137255 0.4 0.35686275
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_15_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_16_0
+Ns 92.156863
+Ka 0.43137255 0.4 0.35686275
+Kd 0.43137255 0.4 0.35686275
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_17_0
+Ns 92.156863
+Ka 0.44313726 0.43137255 0.38431373
+Kd 0.44313726 0.43137255 0.38431373
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_18_0
+Ns 92.156863
+Ka 0.2509804 0.24313726 0.22352941
+Kd 0.2509804 0.24313726 0.22352941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_19_0
+Ns 92.156863
+Ka 0.48235294 0.46666667 0.43137255
+Kd 0.48235294 0.46666667 0.43137255
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_20_0
+Ns 92.156863
+Ka 0.32941177 0.30980393 0.24705882
+Kd 0.32941177 0.30980393 0.24705882
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl PITCH_TENNIS_CLAY_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-clay-11506708725533716020.png
+map_Kd nyc_stuy.obj_textures/tex-clay-11506708725533716020.png
+Ni 1
+illum 2
+
+newmtl PITCH_TENNIS_CLAY_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka -clamp on nyc_stuy.obj_textures/tex-pitchTennis-9590366252986603669.png
+map_Kd -clamp on nyc_stuy.obj_textures/tex-pitchTennis-9590366252986603669.png
+Ni 1
+illum 2
+
+newmtl PLASTIC_0
+Ns 92.156863
+Ka 0.46666667 0.46666667 0.46666667
+Kd 0.46666667 0.46666667 0.46666667
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plastic010_Color-12845280421190464867.png
+map_Kd nyc_stuy.obj_textures/tex-Plastic010_Color-12845280421190464867.png
+Ni 1
+illum 2
+
+newmtl TENNIS_NET_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-tennis_net-10815581208959724413.png
+map_Kd nyc_stuy.obj_textures/tex-tennis_net-10815581208959724413.png
+map_d nyc_stuy.obj_textures/tex-tennis_net-10815581208959724413.png
+Ni 1
+illum 2
+
+newmtl MAT_21_0
+Ns 92.156863
+Ka 0.41568628 0.39215687 0.32941177
+Kd 0.41568628 0.39215687 0.32941177
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_21_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_22_0
+Ns 92.156863
+Ka 0.41568628 0.39215687 0.32941177
+Kd 0.41568628 0.39215687 0.32941177
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_23_0
+Ns 92.156863
+Ka 0.4627451 0.44705883 0.3647059
+Kd 0.4627451 0.44705883 0.3647059
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_23_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_24_0
+Ns 92.156863
+Ka 0.4627451 0.44705883 0.3647059
+Kd 0.4627451 0.44705883 0.3647059
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_25_0
+Ns 92.156863
+Ka 0.40392157 0.39215687 0.36862746
+Kd 0.40392157 0.39215687 0.36862746
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_26_0
+Ns 92.156863
+Ka 0.34901962 0.3372549 0.28627452
+Kd 0.34901962 0.3372549 0.28627452
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_27_0
+Ns 92.156863
+Ka 0.40392157 0.39215687 0.36862746
+Kd 0.40392157 0.39215687 0.36862746
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_27_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_28_0
+Ns 92.156863
+Ka 0.3254902 0.3372549 0.3137255
+Kd 0.3254902 0.3372549 0.3137255
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_29_0
+Ns 92.156863
+Ka 0.3254902 0.3372549 0.3137255
+Kd 0.3254902 0.3372549 0.3137255
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_30_0
+Ns 92.156863
+Ka 0.39215687 0.32156864 0.27450982
+Kd 0.39215687 0.32156864 0.27450982
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_30_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_31_0
+Ns 92.156863
+Ka 0.29411766 0.27450982 0.23921569
+Kd 0.29411766 0.27450982 0.23921569
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_31_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_32_0
+Ns 92.156863
+Ka 0.3764706 0.3372549 0.27450982
+Kd 0.3764706 0.3372549 0.27450982
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_32_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_33_0
+Ns 92.156863
+Ka 0.3764706 0.3372549 0.27450982
+Kd 0.3764706 0.3372549 0.27450982
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_34_0
+Ns 92.156863
+Ka 0.25882354 0.25490198 0.23137255
+Kd 0.25882354 0.25490198 0.23137255
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_35_0
+Ns 92.156863
+Ka 0.13725491 0.15686275 0.16078432
+Kd 0.13725491 0.15686275 0.16078432
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-RoofingTiles010_Color-16226073255630728720.png
+map_Kd nyc_stuy.obj_textures/tex-RoofingTiles010_Color-16226073255630728720.png
+Ni 1
+illum 2
+
+newmtl MAT_36_0
+Ns 92.156863
+Ka 0.39607844 0.3882353 0.32941177
+Kd 0.39607844 0.3882353 0.32941177
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_36_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_37_0
+Ns 92.156863
+Ka 0.39607844 0.3882353 0.32941177
+Kd 0.39607844 0.3882353 0.32941177
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_38_0
+Ns 92.156863
+Ka 0.28627452 0.2901961 0.30980393
+Kd 0.28627452 0.2901961 0.30980393
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_39_0
+Ns 92.156863
+Ka 0.31764707 0.3137255 0.23921569
+Kd 0.31764707 0.3137255 0.23921569
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_40_0
+Ns 92.156863
+Ka 0.13333334 0.12941177 0.13725491
+Kd 0.13333334 0.12941177 0.13725491
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_41_0
+Ns 92.156863
+Ka 0.13333334 0.12941177 0.13725491
+Kd 0.13333334 0.12941177 0.13725491
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_42_0
+Ns 92.156863
+Ka 0.44313726 0.43137255 0.38039216
+Kd 0.44313726 0.43137255 0.38039216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_42_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_43_0
+Ns 92.156863
+Ka 0.3137255 0.3137255 0.30588236
+Kd 0.3137255 0.3137255 0.30588236
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_44_0
+Ns 92.156863
+Ka 0.44313726 0.43137255 0.38039216
+Kd 0.44313726 0.43137255 0.38039216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_45_0
+Ns 92.156863
+Ka 0.15294118 0.15294118 0.14509805
+Kd 0.15294118 0.15294118 0.14509805
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_46_0
+Ns 92.156863
+Ka 0.3254902 0.2627451 0.22352941
+Kd 0.3254902 0.2627451 0.22352941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_47_0
+Ns 92.156863
+Ka 0.5019608 0.49803922 0.45490196
+Kd 0.5019608 0.49803922 0.45490196
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_47_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_48_0
+Ns 92.156863
+Ka 0.11372549 0.14509805 0.14509805
+Kd 0.11372549 0.14509805 0.14509805
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_49_0
+Ns 92.156863
+Ka 0.5019608 0.49803922 0.45490196
+Kd 0.5019608 0.49803922 0.45490196
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_50_0
+Ns 92.156863
+Ka 0.42352942 0.41960785 0.3647059
+Kd 0.42352942 0.41960785 0.3647059
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+map_Kd nyc_stuy.obj_textures/tex-Concrete034_Color-16732324054153633599.png
+Ni 1
+illum 2
+
+newmtl MAT_51_0
+Ns 92.156863
+Ka 0.35686275 0.32941177 0.2509804
+Kd 0.35686275 0.32941177 0.2509804
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_51_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl MAT_52_0
+Ns 92.156863
+Ka 0.35686275 0.32941177 0.2509804
+Kd 0.35686275 0.32941177 0.2509804
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_53_0
+Ns 92.156863
+Ka 0.30588236 0.21568628 0.2
+Kd 0.30588236 0.21568628 0.2
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+map_Kd nyc_stuy.obj_textures/tex-Plaster002_Color-9455074165062826827.png
+Ni 1
+illum 2
+
+newmtl MAT_53_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+map_Kd nyc_stuy.obj_textures/tex-MarekCompositeWall00001_transparent-15062267568043473634.png
+Ni 1
+illum 2
+
+newmtl TERRAIN_DEFAULT_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka nyc_stuy.obj_textures/tex-Ground003_Color-7504554415608202545.png
+map_Kd nyc_stuy.obj_textures/tex-Ground003_Color-7504554415608202545.png
+Ni 1
+illum 2
+

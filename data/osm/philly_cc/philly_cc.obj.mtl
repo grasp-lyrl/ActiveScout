@@ -1,0 +1,997 @@
+# This file was created by OSM2World 0.4.0-SNAPSHOT - https://osm2world.org
+
+
+newmtl ASPHALT_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+map_Kd philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+Ni 1
+illum 2
+
+newmtl ROAD_MARKING_DASHED_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+map_Kd philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+Ni 1
+illum 2
+
+newmtl ROAD_MARKING_DASHED_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-road_marking_dash-3204111436935529262.png
+map_Kd philly_cc1.obj_textures/tex-road_marking_dash-3204111436935529262.png
+Ni 1
+illum 2
+
+newmtl STEEL_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Metal002_Color-16445040600077521190.png
+map_Kd philly_cc1.obj_textures/tex-Metal002_Color-16445040600077521190.png
+Ni 1
+illum 2
+
+newmtl KERB_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-KnerrKerb0001-18363082490840935164.png
+map_Kd philly_cc1.obj_textures/tex-KnerrKerb0001-18363082490840935164.png
+Ni 1
+illum 2
+
+newmtl PAVING_STONE_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-PavingStones072_Color-15838633965142513862.png
+map_Kd philly_cc1.obj_textures/tex-PavingStones072_Color-15838633965142513862.png
+Ni 1
+illum 2
+
+newmtl CONCRETE_0
+Ns 92.156863
+Ka 0.27450982 0.27450982 0.27450982
+Kd 0.27450982 0.27450982 0.27450982
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+map_Kd philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+Ni 1
+illum 2
+
+newmtl MAT_0_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+map_Kd philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+Ni 1
+illum 2
+
+newmtl MAT_0_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-road_marking_crossing-16023800753190070222.png
+map_Kd philly_cc1.obj_textures/tex-road_marking_crossing-16023800753190070222.png
+Ni 1
+illum 2
+
+newmtl BUS_STOP_SIGN_0
+Ns 92.156863
+Ka 0.49019608 0.4509804 0.023529412
+Kd 0.49019608 0.4509804 0.023529412
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl MAT_1_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-206-4680482477159374222.png
+map_Kd philly_cc1.obj_textures/tex-206-4680482477159374222.png
+map_d philly_cc1.obj_textures/tex-206-4680482477159374222.png
+Ni 1
+illum 2
+
+newmtl MAT_2_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-13736837041480796211.png
+map_Kd philly_cc1.obj_textures/tex-13736837041480796211.png
+map_d philly_cc1.obj_textures/tex-13736837041480796211.png
+Ni 1
+illum 2
+
+newmtl RED_ROAD_MARKING_0
+Ns 92.156863
+Ka 0.5019608 0.26666668 0.26666668
+Kd 0.5019608 0.26666668 0.26666668
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+map_Kd philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+Ni 1
+illum 2
+
+newmtl FIREHYDRANT_0
+Ns 92.156863
+Ka 0.4 0.0 0.0
+Kd 0.4 0.0 0.0
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl TREE_BILLBOARD_CONIFEROUS_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka -clamp on philly_cc1.obj_textures/tex-arbaro_tree_coniferous-4797479708950380394.png
+map_Kd -clamp on philly_cc1.obj_textures/tex-arbaro_tree_coniferous-4797479708950380394.png
+map_d -clamp on philly_cc1.obj_textures/tex-arbaro_tree_coniferous-4797479708950380394.png
+Ni 1
+illum 2
+
+newmtl TREE_BILLBOARD_BROAD_LEAVED_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka -clamp on philly_cc1.obj_textures/tex-arbaro_tree_broad_leaved-13024957143748062323.png
+map_Kd -clamp on philly_cc1.obj_textures/tex-arbaro_tree_broad_leaved-13024957143748062323.png
+map_d -clamp on philly_cc1.obj_textures/tex-arbaro_tree_broad_leaved-13024957143748062323.png
+Ni 1
+illum 2
+
+newmtl MAT_3_0
+Ns 92.156863
+Ka 0.27450982 0.27450982 0.27450982
+Kd 0.27450982 0.27450982 0.27450982
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+map_Kd philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+Ni 1
+illum 2
+
+newmtl MAT_3_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-road_marking_crossing-16023800753190070222.png
+map_Kd philly_cc1.obj_textures/tex-road_marking_crossing-16023800753190070222.png
+Ni 1
+illum 2
+
+newmtl MAT_4_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-PavingStones072_Color-15838633965142513862.png
+map_Kd philly_cc1.obj_textures/tex-PavingStones072_Color-15838633965142513862.png
+Ni 1
+illum 2
+
+newmtl MAT_4_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-road_marking_crossing-16023800753190070222.png
+map_Kd philly_cc1.obj_textures/tex-road_marking_crossing-16023800753190070222.png
+Ni 1
+illum 2
+
+newmtl MAT_5_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+map_Kd philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+Ni 1
+illum 2
+
+newmtl MAT_5_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka -clamp on philly_cc1.obj_textures/tex-road_arrow_right-2127290778382600799.png
+map_Kd -clamp on philly_cc1.obj_textures/tex-road_arrow_right-2127290778382600799.png
+Ni 1
+illum 2
+
+newmtl MAT_6_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+map_Kd philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+Ni 1
+illum 2
+
+newmtl MAT_6_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka -clamp on philly_cc1.obj_textures/tex-road_arrow_through-16958804188135080641.png
+map_Kd -clamp on philly_cc1.obj_textures/tex-road_arrow_through-16958804188135080641.png
+Ni 1
+illum 2
+
+newmtl RAIL_BALLAST_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Gravel020_Color-8125775233157528277.png
+map_Kd philly_cc1.obj_textures/tex-Gravel020_Color-8125775233157528277.png
+Ni 1
+illum 2
+
+newmtl RAILWAY_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Railway_Color-9104507697270961100.png
+map_Kd philly_cc1.obj_textures/tex-Railway_Color-9104507697270961100.png
+Ni 1
+illum 2
+
+newmtl WOOD_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Wood026_Color-14181246812508656831.png
+map_Kd philly_cc1.obj_textures/tex-Wood026_Color-14181246812508656831.png
+Ni 1
+illum 2
+
+newmtl BRIDGE_DEFAULT_0
+Ns 92.156863
+Ka 0.2509804 0.2509804 0.2509804
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl BRIDGE_PILLAR_DEFAULT_0
+Ns 92.156863
+Ka 0.2509804 0.2509804 0.2509804
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl MAT_7_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+map_Kd philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+Ni 1
+illum 2
+
+newmtl MAT_7_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka -clamp on philly_cc1.obj_textures/tex-road_arrow_through_right-3897195397188546714.png
+map_Kd -clamp on philly_cc1.obj_textures/tex-road_arrow_through_right-3897195397188546714.png
+Ni 1
+illum 2
+
+newmtl STONE_0
+Ns 92.156863
+Ka 0.3137255 0.3254902 0.30588236
+Kd 0.3137255 0.3254902 0.30588236
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Bricks008_Color-11903617931533753087.png
+map_Kd philly_cc1.obj_textures/tex-Bricks008_Color-11903617931533753087.png
+Ni 1
+illum 2
+
+newmtl CHAIN_LINK_FENCE_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Fence006_Color-10247123242490332011.png
+map_Kd philly_cc1.obj_textures/tex-Fence006_Color-10247123242490332011.png
+map_d philly_cc1.obj_textures/tex-Fence006_Color-10247123242490332011.png
+Ni 1
+illum 2
+
+newmtl METAL_FENCE_POST_0
+Ns 92.156863
+Ka 0.36862746 0.3882353 0.4
+Kd 0.36862746 0.3882353 0.4
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl GRASS_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Ground003_Color-10135619475466298895.png
+map_Kd philly_cc1.obj_textures/tex-Ground003_Color-10135619475466298895.png
+Ni 1
+illum 2
+
+newmtl MAT_8_0
+Ns 92.156863
+Ka 0.34117648 0.34117648 0.34117648
+Kd 0.34117648 0.34117648 0.34117648
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_8_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl ROOF_DEFAULT_0
+Ns 92.156863
+Ka 0.42745098 0.42745098 0.42745098
+Kd 0.42745098 0.42745098 0.42745098
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-RoofingTiles010_Color-9353280115707499045.png
+map_Kd philly_cc1.obj_textures/tex-RoofingTiles010_Color-9353280115707499045.png
+Ni 1
+illum 2
+
+newmtl BUILDING_DEFAULT_0
+Ns 92.156863
+Ka 0.34117648 0.34117648 0.34117648
+Kd 0.34117648 0.34117648 0.34117648
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl PURIFIED_WATER_0
+Ns 92.156863
+Ka 0.0 0.0 0.5019608
+Kd 0.0 0.0 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl EARTH_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Ground042_Color-13793377233521018390.png
+map_Kd philly_cc1.obj_textures/tex-Ground042_Color-13793377233521018390.png
+Ni 1
+illum 2
+
+newmtl GLASS_WALL_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Facade005_Color-3114149404898626738.png
+map_Kd philly_cc1.obj_textures/tex-Facade005_Color-3114149404898626738.png
+Ni 1
+illum 2
+
+newmtl MAT_9_0
+Ns 92.156863
+Ka 0.3529412 0.3137255 0.28627452
+Kd 0.3529412 0.3137255 0.28627452
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_9_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl MAT_10_0
+Ns 92.156863
+Ka 0.3529412 0.3137255 0.28627452
+Kd 0.3529412 0.3137255 0.28627452
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_11_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Bricks029_Color-10106550202754286451.png
+map_Kd philly_cc1.obj_textures/tex-Bricks029_Color-10106550202754286451.png
+Ni 1
+illum 2
+
+newmtl MAT_11_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl BRICK_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Bricks029_Color-10106550202754286451.png
+map_Kd philly_cc1.obj_textures/tex-Bricks029_Color-10106550202754286451.png
+Ni 1
+illum 2
+
+newmtl SLATE_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-RoofingTiles003_Color-918608888928675126.png
+map_Kd philly_cc1.obj_textures/tex-RoofingTiles003_Color-918608888928675126.png
+Ni 1
+illum 2
+
+newmtl MAT_12_0
+Ns 92.156863
+Ka 0.3019608 0.3019608 0.2784314
+Kd 0.3019608 0.3019608 0.2784314
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_13_0
+Ns 92.156863
+Ka 0.3019608 0.3019608 0.2784314
+Kd 0.3019608 0.3019608 0.2784314
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_13_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl GLASS_ROOF_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Facade005_Color-3114149404898626738.png
+map_Kd philly_cc1.obj_textures/tex-Facade005_Color-3114149404898626738.png
+Ni 1
+illum 2
+
+newmtl MAT_14_0
+Ns 92.156863
+Ka 0.13333334 0.1882353 0.21568628
+Kd 0.13333334 0.1882353 0.21568628
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+map_Kd philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+Ni 1
+illum 2
+
+newmtl MAT_15_0
+Ns 92.156863
+Ka 0.33333334 0.3254902 0.30588236
+Kd 0.33333334 0.3254902 0.30588236
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_15_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl MAT_16_0
+Ns 92.156863
+Ka 0.35686275 0.3254902 0.25882354
+Kd 0.35686275 0.3254902 0.25882354
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_16_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl MAT_17_0
+Ns 92.156863
+Ka 0.21176471 0.21176471 0.16470589
+Kd 0.21176471 0.21176471 0.16470589
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-RoofingTiles010_Color-9353280115707499045.png
+map_Kd philly_cc1.obj_textures/tex-RoofingTiles010_Color-9353280115707499045.png
+Ni 1
+illum 2
+
+newmtl MAT_18_0
+Ns 92.156863
+Ka 0.30588236 0.18039216 0.17254902
+Kd 0.30588236 0.18039216 0.17254902
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_18_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl WATER_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-P1140080E_Water-4507583147527934985.png
+map_Kd philly_cc1.obj_textures/tex-P1140080E_Water-4507583147527934985.png
+Ni 1
+illum 2
+
+newmtl MAT_19_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+map_Kd philly_cc1.obj_textures/tex-Asphalt010_Color-5663229539495276709.png
+Ni 1
+illum 2
+
+newmtl MAT_19_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka -clamp on philly_cc1.obj_textures/tex-helipad_markings-9214655561307255550.png
+map_Kd -clamp on philly_cc1.obj_textures/tex-helipad_markings-9214655561307255550.png
+Ni 1
+illum 2
+
+newmtl GRAVEL_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Gravel004_Color-13611272453268149487.png
+map_Kd philly_cc1.obj_textures/tex-Gravel004_Color-13611272453268149487.png
+Ni 1
+illum 2
+
+newmtl ENTRANCE_DEFAULT_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-DE19F1FreisingDoor00005_small-16983862013446318816.png
+map_Kd philly_cc1.obj_textures/tex-DE19F1FreisingDoor00005_small-16983862013446318816.png
+Ni 1
+illum 2
+
+newmtl MAT_20_0
+Ns 92.156863
+Ka 0.38039216 0.3254902 0.28235295
+Kd 0.38039216 0.3254902 0.28235295
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_21_0
+Ns 92.156863
+Ka 0.38039216 0.3254902 0.28235295
+Kd 0.38039216 0.3254902 0.28235295
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_21_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl MAT_22_0
+Ns 92.156863
+Ka 0.32941177 0.25882354 0.20784314
+Kd 0.32941177 0.25882354 0.20784314
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_22_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl MAT_23_0
+Ns 92.156863
+Ka 0.34117648 0.28235295 0.2
+Kd 0.34117648 0.28235295 0.2
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_23_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl MAT_24_0
+Ns 92.156863
+Ka 0.25882354 0.21176471 0.19215687
+Kd 0.25882354 0.21176471 0.19215687
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_25_0
+Ns 92.156863
+Ka 0.33333334 0.29803923 0.27450982
+Kd 0.33333334 0.29803923 0.27450982
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_25_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl MAT_26_0
+Ns 92.156863
+Ka 0.3529412 0.31764707 0.27058825
+Kd 0.3529412 0.31764707 0.27058825
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+map_Kd philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+Ni 1
+illum 2
+
+newmtl MAT_27_0
+Ns 92.156863
+Ka 0.14901961 0.14901961 0.14901961
+Kd 0.14901961 0.14901961 0.14901961
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_27_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl MAT_28_0
+Ns 92.156863
+Ka 0.4392157 0.43529412 0.4117647
+Kd 0.4392157 0.43529412 0.4117647
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_28_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl MAT_29_0
+Ns 92.156863
+Ka 0.23921569 0.23921569 0.23921569
+Kd 0.23921569 0.23921569 0.23921569
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+map_Kd philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+Ni 1
+illum 2
+
+newmtl MAT_30_0
+Ns 92.156863
+Ka 0.14901961 0.14901961 0.14901961
+Kd 0.14901961 0.14901961 0.14901961
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_31_0
+Ns 92.156863
+Ka 0.47058824 0.47058824 0.47058824
+Kd 0.47058824 0.47058824 0.47058824
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_31_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl MAT_32_0
+Ns 92.156863
+Ka 0.3137255 0.22745098 0.19607843
+Kd 0.3137255 0.22745098 0.19607843
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl MAT_32_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+map_Kd philly_cc1.obj_textures/tex-MarekCompositeWall00001_transparent-95507010684028577.png
+Ni 1
+illum 2
+
+newmtl MAT_33_0
+Ns 92.156863
+Ka 0.49019608 0.48235294 0.46666667
+Kd 0.49019608 0.48235294 0.46666667
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+map_Kd philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+Ni 1
+illum 2
+
+newmtl MAT_34_0
+Ns 92.156863
+Ka 0.1254902 0.11372549 0.08627451
+Kd 0.1254902 0.11372549 0.08627451
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+map_Kd philly_cc1.obj_textures/tex-Concrete034_Color-1225432904709714218.png
+Ni 1
+illum 2
+
+newmtl MAT_35_0
+Ns 92.156863
+Ka 0.3372549 0.29803923 0.27058825
+Kd 0.3372549 0.29803923 0.27058825
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+map_Kd philly_cc1.obj_textures/tex-Plaster002_Color-2595924019677585788.png
+Ni 1
+illum 2
+
+newmtl TERRAIN_DEFAULT_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka philly_cc1.obj_textures/tex-Ground003_Color-10135619475466298895.png
+map_Kd philly_cc1.obj_textures/tex-Ground003_Color-10135619475466298895.png
+Ni 1
+illum 2
+
