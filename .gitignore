@@ -2,3 +2,7 @@ cache/
 data_gtmap/
 data_nerf/
 images/
+
+# Large data files
+data/*/*.pkl
+*.pkl
