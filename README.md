@@ -1,26 +1,11 @@
 # Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Enviroments ([Paper](https://arxiv.org/abs/2406.07431))
-Authors: Siming He, Christopher D. Hsu∗, Dexter Ong∗, Yifei Simon Shao, Pratik Chaudhari
+Authors: Christopher D. Hsu and Pratik Chaudhari
 
-We study pursuit-evasion games in highly occluded
-urban environments, e.g. tall buildings in a city, where a scout
-(quadrotor) tracks multiple dynamic targets on the ground.
-We show that we can build a neural radiance field (NeRF)
-representation of the city—online—using RGB and depth images
-from different vantage points. This representation is used to
-calculate the information gain to both explore unknown parts
-of the city and track the targets—thereby giving a completely
-first-principles approach to actively tracking dynamic targets.
-We demonstrate, using a custom-built simulator using Open
-Street Maps data of Philadelphia and New York City, that we
-can explore and locate 20 stationary targets within 300 steps.
-This is slower than a greedy baseline, which does not use active
-perception. But for dynamic targets that actively hide behind
-occlusions, we show that our approach maintains, at worst, a
-tracking error of 200m; the greedy baseline can have a tracking
-error as large as 600m. We observe a number of interesting
-properties in the scout’s policies, e.g., it switches its attention to track a different target periodically, as the quality of the NeRF
-representation improves over time, the scout also becomes better
-in terms of target tracking.
+## Abstract
+We study pursuit-evasion games in highly occluded urban environments, e.g. tall buildings in a city, where a scout (quadrotor) tracks multiple dynamic targets on the ground. We show that we can build a neural radiance field (NeRF) representation of the city—online—using RGB and depth images from different vantage points. This representation is used to calculate the information gain to both explore unknown parts of the city and track the targets—thereby giving a completely
+first-principles approach to actively tracking dynamic targets. We demonstrate, using a custom-built simulator using Open Street Maps data of Philadelphia and New York City, that we can explore and locate 20 stationary targets within 300 steps. This is slower than a greedy baseline, which does not use active perception. But for dynamic targets that actively hide behind
+occlusions, we show that our approach maintains, at worst, a tracking error of 200m; the greedy baseline can have a tracking error as large as 600m. We observe a number of interesting
+properties in the scout’s policies, e.g., it switches its attention to track a different target periodically, as the quality of the NeRF representation improves over time, the scout also becomes better in terms of target tracking.
 
 ## Installation
 
@@ -109,3 +94,27 @@ pip install -e planning/rotorpy
    ```bash
    python scripts/nerfpipeline.py --map_name <philly_cc|nyc_stuy>
    ```
+
+## Citation
+```
+@INPROCEEDINGS{10802565,
+  author={Hsu, Christopher D. and Chaudhari, Pratik},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments}, 
+  year={2024},
+  pages={10399-10406},
+  keywords={Target tracking;Urban areas;Buildings;Games;Neural radiance field;Information filters;Probabilistic logic;Mutual information;Intelligent robots;Quadrotors},
+  doi={10.1109/IROS58592.2024.10802565}}
+
+or
+
+@misc{hsu2024activescoutmultitargettracking,
+      title={Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments}, 
+      author={Christopher D. Hsu and Pratik Chaudhari},
+      year={2024},
+      eprint={2406.07431},
+      archivePrefix={arXiv},
+      primaryClass={cs.MA},
+      url={https://arxiv.org/abs/2406.07431}, 
+}
+```
