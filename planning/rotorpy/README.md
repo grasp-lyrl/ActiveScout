@@ -2,6 +2,8 @@
 A Python-based multirotor simulation environment with aerodynamic wrenches, useful for education and research in estimation, planning, and control for UAVs.
 <p align="center"><img src="/media/double_pillar.gif" width="32%"/><img src="/media/gusty.gif" width="32%"/><img src="/media/minsnap.gif" width="32%"/></p>
 
+Modified from https://github.com/spencerfolk/rotorpy
+
 **NEW in `v1.1.0`**: RotorPy now includes a customizable [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) environment found in the new `rotorpy/learning/` module. 
 
 <p align="center"><img src="/media/ppo_hover_20k.gif" width="32%"/><img src="/media/ppo_hover_600k.gif" width="32%"/><img src="/media/ppo_hover_1000k.gif" width="32%"/></p>
